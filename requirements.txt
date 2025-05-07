@@ -9,6 +9,7 @@ google-generativeai==0.3.2
 transformers==4.37.2
 torch==2.2.0
 Pillow==10.2.0
+openai==1.12.0
 
 # Image Processing and Validation
 clip==0.2.0
@@ -24,4 +25,4 @@ wkhtmltopdf==0.2
 pydantic==2.6.1
 python-jose==3.3.0
 passlib==1.7.4
-bcrypt==4.1.2 
+bcrypt==4.1.2
