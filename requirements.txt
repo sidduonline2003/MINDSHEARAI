@@ -1,1 +1,27 @@
- 
+# FastAPI and Server
+fastapi==0.109.2
+uvicorn==0.27.1
+python-multipart==0.0.9
+python-dotenv==1.0.1
+
+# AI and ML
+google-generativeai==0.3.2
+transformers==4.37.2
+torch==2.2.0
+Pillow==10.2.0
+
+# Image Processing and Validation
+clip==0.2.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# PDF Processing
+PyPDF2==3.0.1
+pdfkit==1.0.0
+wkhtmltopdf==0.2
+
+# Utilities
+pydantic==2.6.1
+python-jose==3.3.0
+passlib==1.7.4
+bcrypt==4.1.2 
